@@ -58,7 +58,7 @@ def apply_sovereign_custom_ui():
             border-radius: 6px !important;
         }
         </style>
-    """, unsafe_html=True)
+    """, unsafe_allow_html=True)
 
 apply_sovereign_custom_ui()
 
@@ -70,7 +70,7 @@ st.markdown("""
             De-centralized Global Discovery Network // Grounded Multi-Agent Logic
         </p>
     </div>
-""", unsafe_html=True)
+""", unsafe_allow_html=True)
 
 # ------------------------------------------------------------------------------
 # 2. LOCAL UNFORGETTABLE STORAGE VAULT SYSTEM
