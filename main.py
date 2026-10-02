@@ -16,7 +16,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from langchain_groq import ChatGroq
-from langchain.callbacks.base import BaseCallbackHandler
+from langchain_core.callbacks.base import BaseCallbackHandler
 from chapa import Chapa
 
 # ------------------------------------------------------------------------------
