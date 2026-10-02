@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+selenium
+webdriver-manager
+langchain-groq
+chapa
+pandas
+numpy
