@@ -2,6 +2,8 @@ streamlit
 beautifulsoup4
 selenium
 webdriver-manager
+langchain
+langchain-core
 langchain-groq
 chapa
 pandas
